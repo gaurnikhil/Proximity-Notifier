@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Proximity_notifier</string>
+    <string name="email">Email</string>
+    <string name="login">LogIn</string>
+    <string name="password">Password</string>
+    <string name="no_account_yet_creat_one">No account yet? Creat one</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="details">Details</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="example">Example</string>
+    <string name="access_token">pk.eyJ1IjoibmlraGlsLTY4MzQiLCJhIjoiY2swbm9uZmZmMDAzbDNsbjY1ejZoMnEyeCJ9.le90UA_bvKvRAl50-I2uPw</string>
+    <string name="google_maps_api_key">AIzaSyDCbqDrg08fezxJIqLnJ_TtxsIe2zN9mDQ</string>
+</resources>
